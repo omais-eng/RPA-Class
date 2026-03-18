@@ -1,3 +1,8 @@
+# RPA-Class
+Repository for the robotics class.
+
+---
+
 # Study Generator
 
 A study material generator with demo data. No backend or API key required.
